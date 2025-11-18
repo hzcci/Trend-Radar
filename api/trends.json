@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T20:51:09.957359+08:00",
+  "generated_at": "2025-11-18T21:39:05.538412+08:00",
   "total_titles_processed": 1780,
-  "failed_sources": [],
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/hzcci/Trend-Radar/img/news.jpg"
 }
