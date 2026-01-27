@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-28T00:36:43.157977+08:00",
-  "total_titles_processed": 315,
-  "failed_sources": [],
+  "generated_at": "2026-01-28T01:37:25.280622+08:00",
+  "total_titles_processed": 396,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/hzcci/Trend-Radar/img/news.jpg"
 }
