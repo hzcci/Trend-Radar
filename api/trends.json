@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-08T19:24:52.700376+08:00",
-  "total_titles_processed": 1379,
-  "failed_sources": [],
+  "generated_at": "2026-05-08T22:02:22.713515+08:00",
+  "total_titles_processed": 1559,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/hzcci/Trend-Radar/img/news.jpg"
 }
