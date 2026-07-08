@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-07-08T11:38:03.154655+08:00",
-  "total_titles_processed": 836,
-  "failed_sources": [],
+  "generated_at": "2026-07-08T14:35:22.424381+08:00",
+  "total_titles_processed": 936,
+  "failed_sources": [
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/hzcci/Trend-Radar/img/news.jpg"
 }
